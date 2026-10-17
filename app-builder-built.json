@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Codecontenu — Studio code et contenu",
+      "hasCanvas": false,
+      "bodyTextLen": 2511,
+      "bodyTextHash": "7ac03f9ae5f7f3b637d04c421a6a6e7cfd464841e9e71e567d87e8a5fd32f283",
+      "bodyTextPrefix": "Aller au contenu Codecontenu Studio Projets Méthode Contact Écri",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Codecontenu — Studio code et contenu",
+      "hasCanvas": false,
+      "bodyTextLen": 2488,
+      "bodyTextHash": "ca5a8dcec0b0f8d5389cbdd817204bab65b226ff5fc46a66132a007e8c000e4a",
+      "bodyTextPrefix": "Aller au contenu Codecontenu Ouvrir le menu STUDIO INDÉPENDANT C",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
